@@ -10,7 +10,7 @@ In the point 1 you can write long-read and finish that with EXIT
 Menu: 
 
 1.Spelling
-2.Fill Vocabulary
-3.Read Vocabulary
-4.Delete the word
+2.Fill Vocabulary 
+3.Read Vocabulary 
+4.Delete the word 
 5.Exit
